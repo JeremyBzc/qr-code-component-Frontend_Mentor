@@ -7,8 +7,6 @@ Frontend Mentor - QR code component
 - [Continued development]
 - [Author]
 
-### Screenshot
-
 ### Links
 
 - Live Site URL: https://jeremybzc.github.io/qr-code-component-Frontend_Mentor/
